@@ -1,0 +1,7 @@
+{
+  "name": "Image SEO Metadata Generator",
+  "description": "Enter one keyword and generate professional image metadata for websites, WordPress, Google Images, Pinterest, and general SEO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

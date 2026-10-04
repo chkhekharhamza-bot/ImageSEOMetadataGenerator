@@ -1,0 +1,16 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Tauri / Rust build output
+src-tauri/target/
+src-tauri/gen/
+
+# Generated packaging output
+image-seo-metadata-generator-desktop.zip
+public/*.zip
